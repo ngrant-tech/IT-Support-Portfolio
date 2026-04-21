@@ -1,4 +1,4 @@
-# Active Directory Home Lab (Oracle VirtualBox)
+# Active Directory Home Lab
 
 ## Project Summary
 Built a virtualized Active Directory environment using Oracle VirtualBox. Configured a Windows Server 2025 Domain Controller and a Windows 11 client machine. Created organizational units, users, and groups, and successfully joined the client machine to the domain using domain credentials.
