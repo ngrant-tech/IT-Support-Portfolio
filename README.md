@@ -1,5 +1,5 @@
 # IT-Support-Portfolio
-Hands-on IT support lab showcasing Active Directory setup, domain join troubleshooting, and client/server ticket resolution using Spiceworks. Demonstrates real-world troubleshooting, root cause analysis, and enterprise support workflows.
+Hands-on IT support lab showcasing Active Directory setup, domain join troubleshooting, and client/server ticket simulations using Spiceworks. Demonstrates real-world troubleshooting, root cause analysis, and enterprise support workflows.
 
 ---
 
