@@ -106,7 +106,7 @@ Built and configured a virtualized enterprise-style Active Directory environment
 ![Server Updates Completed](screenshots/18_server_updates_completed.png)
 ![Enable Remote Management](screenshots/17_enable_remote_management.png)
 
-### 5. Initial Server Setup
+### 5. Initial Windows 11 Setup
 ![Windows 11 Home Page to Settings](screenshots/15.1_windows_11_home_to_settings.png)
 ![Windows 11 Download and Install Updates](screenshots/15_windows_11_download_install_updates.png)
 ![Windows 11 Updates Completed](screenshots/19_windows_11_updates_completed.png)
