@@ -125,33 +125,36 @@ Built and configured a virtualized enterprise-style Active Directory environment
 ![Add Roles and Features Wizard 8](screenshots/27.3_add_roles_features_8.png)
 ![Add Roles and Features Wizard 8](screenshots/27.4_add_roles_features_8.png)
 
-### 7. Network Configuration
+### 7. Server Network Configuration
 ![Changed Windows Server Network Settings](screenshots/28_changed_windows_server_network.png)
-![Changed Windows 11 VM Network Settings](screenshots/29_changed_windows_11_network.png)
 ![Check Server IP Address](screenshots/30_server_ip_address.png)
 ![Set Static IP Address on Server](screenshots/30.1_server_static_ip.png)
-![Assign DNs Server to Windows 11 VM](screenshots/30.2_windows_assign_dns.png)
 
-### 8. Active Directory Organizational Structure
+### 8. Virtual Machine Network Configuration
+![Changed Windows 11 VM Network Settings](screenshots/29_changed_windows_11_network.png)
+![Windows 11 IP Settings](screenshots/29.1_windows_11_ip_settings.png)
+![Assign DNS Server to Windows 11 VM](screenshots/30.2_windows_assign_dns.png)
+
+### 9. Active Directory Organizational Structure
 ![Creating Organizational Unit](screenshots/31_creating_organizational_unit.png)
 ![Organizational Units](screenshots/32_organizational_units.png)
 
-### 9. Creating Domain Users
+### 10. Creating Domain Users
 ![New User](screenshots/33_new_user.png)
 ![New User 1](screenshots/34_new_user_1.png)
 ![New User 2](screenshots/35_new_user_2.png)
 
-### 10. Assigning Group Permissions
+### 11. Assigning Group Permissions
 ![Carl Smith Add to Domain Admins 1](screenshots/36_carl_smith_domain_admins_1.png)
 ![Carl Smith Add to Domain Admins 2](screenshots/37_carl_smith_domain_admins_2.png)
 ![Carl Smith Add to Domain Admins 3](screenshots/38_carl_smith_domain_admins_3.png)
 
-### 11. Joining the Windows 11 Client to the Domain
+### 12. Joining the Windows 11 Client to the Domain
 ![Join Domain 1](screenshots/40_join_domain_1.png)
 ![Join Domain 2](screenshots/41_join_domain_2.png)
 ![Join Domain 3](screenshots/42_join_domain_3.png)
 
-### 12. Authentication and Domain Verification
+### 13. Authentication and Domain Verification
 ![Authenticate with Domain Credentials](screenshots/43_authenticate_domain_credentials.png)
 ![Now Connected to Domain](screenshots/44_now_connected_to_domain.png)
 ![Join Domain as Domain Admin](screenshots/45_join_domain_as_domain_admin.png)
