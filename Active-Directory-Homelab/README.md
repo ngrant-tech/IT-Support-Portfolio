@@ -91,6 +91,7 @@ Built and configured a virtualized enterprise-style Active Directory environment
 ![New Windows Server VM 3](screenshots/06_new_windows_server_vm_3.png)
 ![New Windows Server VM 3](screenshots/06.1_new_windows_server_vm_3.png)
 ![Windows Server Setup](screenshots/07_windows_server_setup.png)
+![Server Manager](screenshots/13_server_manager.png)
 
 ### 3. Creating the Windows 11 Virtual Machine
 ![New Windows 11 VM](screenshots/08_new_windows_11_vm.png)
@@ -99,15 +100,18 @@ Built and configured a virtualized enterprise-style Active Directory environment
 ![New Windows 11 VM 3](screenshots/11_new_windows_11_vm_3.png)
 ![Windows 11 Home Page](screenshots/12_windows_11_home_page.png)
 
-### 4. Initial Server and Client Setup
-![Server Manager](screenshots/13_server_manager.png)
+### 4. Initial Server Setup
+![Server to Settings](screenshots/14.1_server_manager_to_settings.png)
 ![Server Download and Install Updates](screenshots/14_server_download_install_updates.png)
-![Windows 11 Download and Install Updates](screenshots/15_windows_11_download_install_updates.png)
-![Enable Remote Management](screenshots/17_enable_remote_management.png)
 ![Server Updates Completed](screenshots/18_server_updates_completed.png)
+![Enable Remote Management](screenshots/17_enable_remote_management.png)
+
+### 5. Initial Server Setup
+![Windows 11 Home Page to Settings](screenshots/15.1_windows_11_home_to_settings.png)
+![Windows 11 Download and Install Updates](screenshots/15_windows_11_download_install_updates.png)
 ![Windows 11 Updates Completed](screenshots/19_windows_11_updates_completed.png)
 
-### 5. Installing Active Directory Domain Services
+### 6. Installing Active Directory Domain Services
 ![Add Roles and Features Wizard 1](screenshots/20_add_roles_features_1.png)
 ![Add Roles and Features Wizard 2](screenshots/21_add_roles_features_2.png)
 ![Add Roles and Features Wizard 3](screenshots/22_add_roles_features_3.png)
@@ -121,23 +125,23 @@ Built and configured a virtualized enterprise-style Active Directory environment
 ![Add Roles and Features Wizard 8](screenshots/27.3_add_roles_features_8.png)
 ![Add Roles and Features Wizard 8](screenshots/27.4_add_roles_features_8.png)
 
-### 6. Network Configuration
+### 7. Network Configuration
 ![Changed Windows Server Network Settings](screenshots/28_changed_windows_server_network.png)
 ![Changed Windows 11 VM Network Settings](screenshots/29_changed_windows_11_network.png)
 ![Check Server IP Address](screenshots/30_server_ip_address.png)
 ![Set Static IP Address on Server](screenshots/30.1_server_static_ip.png)
 ![Assign DNs Server to Windows 11 VM](screenshots/30.2_windows_assign_dns.png)
 
-### 7. Active Directory Organizational Structure
+### 8. Active Directory Organizational Structure
 ![Creating Organizational Unit](screenshots/31_creating_organizational_unit.png)
 ![Organizational Units](screenshots/32_organizational_units.png)
 
-### 8. Creating Domain Users
+### 9. Creating Domain Users
 ![New User](screenshots/33_new_user.png)
 ![New User 1](screenshots/34_new_user_1.png)
 ![New User 2](screenshots/35_new_user_2.png)
 
-### 9. Assigning Group Permissions
+### 10. Assigning Group Permissions
 ![Carl Smith Add to Domain Admins 1](screenshots/36_carl_smith_domain_admins_1.png)
 ![Carl Smith Add to Domain Admins 2](screenshots/37_carl_smith_domain_admins_2.png)
 ![Carl Smith Add to Domain Admins 3](screenshots/38_carl_smith_domain_admins_3.png)
