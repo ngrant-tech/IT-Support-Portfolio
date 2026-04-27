@@ -47,20 +47,26 @@ User reports slow startup and poor performance when opening applications.
 ### 1. Ticket (Spiceworks)
 ![Ticket](screenshots/ticket.png)
 
-### 2. Reported Issue
+### 2. Reported Issue (User Perspective)
 ![Issue](screenshots/issue1.png)
 ![Issue](screenshots/issue2.png)
-![Issue](screenshots/issue3.png)
 
-### 3. Troubleshooting Steps
+### 3. Initial System Assessment (Technician View)
+![Assessment](screenshots/assessment1.png)
+![Assessment](screenshots/assessment2.png)
+![Assessment](screenshots/assessment3.png)
+![Assessment](screenshots/assessment4.png)
+![Assessment](screenshots/assessment5.png)
+![Assessment](screenshots/assessment6.png)
+
+### 4. Troubleshooting Actions (System Optimization)
 ![Troubleshooting](screenshots/troubleshooting1.png)
 ![Troubleshooting](screenshots/troubleshooting2.png)
 ![Troubleshooting](screenshots/troubleshooting3.png)
 ![Troubleshooting](screenshots/troubleshooting4.png)
 ![Troubleshooting](screenshots/troubleshooting5.png)
-![Troubleshooting](screenshots/troubleshooting6.png)
 
-### 4. Issue Resolved (Working State)
+### 5. Issue Resolved (Optimized System)
 ![Resolved](screenshots/resolved1.png)
 ![Resolved](screenshots/resolved2.png)
-![Resolved](screenshots/resolved.png)
+![Resolved](screenshots/resolved3.png)
