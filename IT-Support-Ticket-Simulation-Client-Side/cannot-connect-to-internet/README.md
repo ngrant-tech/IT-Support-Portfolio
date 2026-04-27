@@ -45,7 +45,7 @@ User reports system is not connecting to the internet and no websites are loadin
 
 ### 3. Troubleshooting Steps
 ![Troubleshooting](screenshots/troubleshooting1.png)
-![Troubleshooting](screenshots/troubleshooting2.png)
+![Troubleshooting](screenshots/troubleshooting2.jpg)
 ![Troubleshooting](screenshots/troubleshooting3.png)
 
 ### 4. Issue Resolved (Working State)
