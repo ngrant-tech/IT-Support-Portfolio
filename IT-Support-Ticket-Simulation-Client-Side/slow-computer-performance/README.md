@@ -57,7 +57,6 @@ User reports slow startup and poor performance when opening applications.
 ![Assessment](screenshots/assessment3.png)
 ![Assessment](screenshots/assessment4.png)
 ![Assessment](screenshots/assessment5.png)
-![Assessment](screenshots/assessment6.png)
 
 ### 4. Troubleshooting Actions (System Optimization)
 ![Troubleshooting](screenshots/troubleshooting1.png)
