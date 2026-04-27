@@ -41,9 +41,9 @@ User reports documents are not printing and print jobs are stuck in the queue. P
 ### 2. Reported Issue
 ![Issue](screenshots/issue1.png)
 ![Issue](screenshots/issue2.png)
+![Issue](screenshots/issue3.png)
 
 ### 3. Troubleshooting Steps
-![Troubleshooting](screenshots/troubleshooting1.png)
 ![Troubleshooting](screenshots/troubleshooting2.png)
 ![Troubleshooting](screenshots/troubleshooting3.png)
 
