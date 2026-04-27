@@ -49,9 +49,9 @@ User reports slow startup and poor performance when opening applications.
 
 ### 2. Reported Issue (User Perspective)
 ![Issue](screenshots/issue1.png)
-![Issue](screenshots/issue2.png)
 
 ### 3. Initial System Assessment (Technician View)
+![Assessment](screenshots/assessment0.png)
 ![Assessment](screenshots/assessment1.png)
 ![Assessment](screenshots/assessment2.png)
 ![Assessment](screenshots/assessment3.png)
