@@ -51,7 +51,7 @@ This project demonstrates hands-on troubleshooting, root cause analysis, and use
 - [Cannot Access Company Website](./cannot-access-company-website)
 
 ### File & Access Issues
-- [Cannot Open Documents in Notepad](./application-freeze-notepad)  
+- [Cannot Open Documents in Notepad](./cannot-open-documents-notepad)  
 - [Cannot Access Shared Drive](./cannot-access-shared-drive)
 
 ### User Interface Issues
