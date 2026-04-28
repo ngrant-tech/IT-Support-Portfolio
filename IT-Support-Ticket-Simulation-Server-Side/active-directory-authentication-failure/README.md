@@ -53,3 +53,4 @@ User confirms credentials have not been changed and believes they are entering t
 ### 4. Issue Resolved (Working State)
 ![Resolved](screenshots/resolved1.png)
 ![Resolved](screenshots/resolved2.png)
+![Resolved](screenshots/resolved3.png)
