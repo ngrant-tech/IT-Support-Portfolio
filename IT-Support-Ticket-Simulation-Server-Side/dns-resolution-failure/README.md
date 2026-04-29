@@ -65,8 +65,6 @@ User confirms site is accessible when using IP address.
 ![Troubleshooting](screenshots/troubleshooting12.png)
 ![Troubleshooting](screenshots/troubleshooting13.png)
 ![Troubleshooting](screenshots/troubleshooting14.png)
-![Troubleshooting](screenshots/troubleshooting15.png)
 
 ### 4. Issue Resolved (Working State)
 ![Resolved](screenshots/resolved1.png)
-![Resolved](screenshots/resolved2.png)
