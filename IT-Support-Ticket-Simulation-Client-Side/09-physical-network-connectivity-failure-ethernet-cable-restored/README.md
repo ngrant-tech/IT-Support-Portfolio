@@ -1,4 +1,4 @@
-# Cannot Connect to Internet
+# Physical Network Connectivity Failure – Ethernet Cable Restored
 
 ## Summary
 User unable to connect to the internet.
