@@ -1,4 +1,4 @@
-# Taskbar Missing
+# Taskbar Visibility Issue – Auto-Hide Setting Correction
 
 ## Summary
 User unable to see taskbar on desktop.
