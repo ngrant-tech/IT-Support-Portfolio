@@ -1,9 +1,9 @@
 # IT Support Ticket Simulation (Client-Side)
 
 ## Project Overview
-Simulated real-world IT support scenarios using a Windows 11 client environment and Spiceworks help desk system. Focused on diagnosing and resolving common end-user issues in a corporate environment.
+Simulated real-world IT support scenarios using a Windows 11 client environment and Spiceworks help desk system. Focused on diagnosing and resolving end-user issues across Active Directory environments, network connectivity, system performance, and workstation configuration.
 
-This project demonstrates hands-on troubleshooting, root cause analysis, and user support workflows aligned with entry-level IT support roles.
+Demonstrates hands-on troubleshooting, root cause analysis, and structured support workflows aligned with enterprise IT support roles.
 
 ---
 
@@ -11,81 +11,85 @@ This project demonstrates hands-on troubleshooting, root cause analysis, and use
 - Windows 11 (Client Machine)
 - Oracle VirtualBox
 - Spiceworks Help Desk
+- Active Directory (Domain Environment)
 - Task Manager
-- Control Panel / Settings
-- Command Prompt (ipconfig, ping, flushdns)
+- Windows Settings / Control Panel
+- Command Prompt (ipconfig, ping, nslookup, flushdns)
 
 ---
 
 ## Skills Demonstrated
-- IT Support Troubleshooting
-- Active Directory Environment Awareness
-- Network Connectivity Diagnosis
-- DNS Troubleshooting
-- File System Management
-- Performance Optimization
-- Printer Troubleshooting
-- End-User Support
-- Root Cause Analysis
+- Active Directory Troubleshooting (Domain Join / Authentication)
+- DNS Resolution & Network Diagnostics
+- Network Connectivity Troubleshooting (Layer 1–3)
+- System Performance Analysis & Optimization
+- Process & Resource Management
+- File Association & OS Configuration
+- User Interface & Workstation Configuration
+- End-User Support & Issue Reproduction
+- Root Cause Analysis & Validation
 
 ---
 
-## Ticket Categories Covered
-- Application Issues
-- Network Connectivity Issues
-- File Access Issues
-- System Performance Issues
-- Printer Issues
-- User Interface Issues
+## Featured Troubleshooting Scenarios
+
+- [Active Directory Login Failure (Domain Rejoin)](./01-active-directory-login-failure-domain-rejoin-resolution)
+- [DNS Resolution Failure (Internal Web Access)](./02-dns-resolution-failure-internal-web-access-restored)
+- [Network Adapter Failure (Shared Drive Outage)](./03-disabled-network-adapter-shared-drive-outage-resolution)
 
 ---
 
-## Ticket List
+## Ticket Breakdown
 
-### Application & System Issues
-- [Application Freeze - Notepad](./application-freeze-notepad)
-- [Slow Computer Performance](./slow-computer-performance)
-
-### Network & Connectivity Issues
-- [Cannot Connect to Internet](./cannot-connect-to-internet)
-- [Cannot Access Company Website](./cannot-access-company-website)
-
-### File & Access Issues
-- [Cannot Open Documents in Notepad](./cannot-open-documents-notepad)  
-- [Cannot Access Shared Drive](./cannot-access-shared-drive)
-
-### User Interface Issues
-- [Desktop Icons Missing](./desktop-icons-missing)
-- [Taskbar Missing](./taskbar-missing)
-
-### Device & Hardware Issues
-- [Printer Not Working](./printer-not-working)
-
-### Authentication Issues
-- [Login Issue](./login-issue)
+### Active Directory & Authentication
+- [Active Directory Login Failure – Domain Rejoin](./01-active-directory-login-failure-domain-rejoin-resolution)
 
 ---
 
-## Troubleshooting Approach
+### Network & DNS Troubleshooting
+- [DNS Resolution Failure – Internal Web Access Restored](./02-dns-resolution-failure-internal-web-access-restored)
+- [Network Adapter Failure – Shared Drive Outage Resolution](./03-disabled-network-adapter-shared-drive-outage-resolution)
+- [Physical Network Connectivity Failure – Ethernet Cable Restored](./09-physical-network-connectivity-failure-ethernet-cable-restored)
 
-For each ticket, the following process was applied:
+---
 
-1. Identify and reproduce the issue  
-2. Analyze system behavior and symptoms  
-3. Isolate root cause  
-4. Apply targeted fix  
-5. Validate resolution  
-6. Document findings and steps  
+### System Performance & Resource Management
+- [High Resource Usage – System Performance Optimization](./04-high-resource-usage-system-performance-optimization)
+- [Application Freeze – High Resource Usage / Process Management](./06-application-freeze-high-resource-usage-process-management)
+
+---
+
+### OS Configuration & File Management
+- [Incorrect Default Application – File Association Resolution](./05-incorrect-default-application-file-association-resolution)
+
+---
+
+### User Interface & Workstation Configuration
+- [Desktop Icon Visibility Disabled – UI Restoration](./07-desktop-icon-visibility-disabled-user-interface-restoration)
+- [Taskbar Visibility Issue – Auto-Hide Setting Correction](./08-taskbar-visibility-issue-auto-hide-setting-correction)
+
+---
+
+## Troubleshooting Methodology
+
+Each issue was resolved using a structured approach:
+
+1. Reproduce the issue from the end-user perspective  
+2. Analyze system behavior and identify symptoms  
+3. Isolate the root cause (configuration, network, or system-level)  
+4. Apply targeted remediation  
+5. Validate resolution through testing  
+6. Document findings and resolution steps  
 
 ---
 
 ## Key Takeaways
-- Systematic troubleshooting leads to faster resolution
-- Many issues originate from misconfiguration, not failure
-- Verifying the fix is as important as resolving the issue
-- Clear documentation improves support efficiency
+- Enterprise issues often stem from misconfiguration rather than system failure  
+- Layered troubleshooting (network → system → application) improves efficiency  
+- Resource monitoring is critical for performance-related issues  
+- Clear documentation strengthens communication and repeatability in IT support  
 
 ---
 
 ## Notes
-All scenarios were intentionally created and resolved in a controlled lab environment to simulate real-world IT support situations.
+All scenarios were intentionally created and resolved in a controlled lab environment to simulate real-world IT support conditions.
