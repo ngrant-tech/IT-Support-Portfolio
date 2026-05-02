@@ -1,4 +1,4 @@
-# Cannot Open Documents - Notepad
+# Incorrect Default Application – File Association Resolution
 
 ## Summary
 User unable to open text documents in Notepad.
