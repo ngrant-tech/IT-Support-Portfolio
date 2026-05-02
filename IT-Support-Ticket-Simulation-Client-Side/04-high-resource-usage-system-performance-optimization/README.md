@@ -1,4 +1,4 @@
-# Slow Computer Performance
+# High Resource Usage – System Performance Optimization
 
 ## Summary
 User experiencing slow system performance.
