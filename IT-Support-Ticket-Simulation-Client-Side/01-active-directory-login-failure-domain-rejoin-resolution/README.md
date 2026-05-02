@@ -1,4 +1,4 @@
-# Login Issue
+# Active Directory Login Failure – Domain Rejoin
 
 ## Summary
 User unable to log in to workstation.
