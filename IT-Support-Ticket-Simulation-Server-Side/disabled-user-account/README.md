@@ -46,11 +46,17 @@ Error displayed: "Your account has been disabled. Please see your system adminis
 
 ### 3. Troubleshooting Steps
 ![Troubleshooting](screenshots/troubleshooting1.png)
+![Troubleshooting](screenshots/troubleshooting1a.png)
+![Troubleshooting](screenshots/troubleshooting1b.png)
+![Troubleshooting](screenshots/troubleshooting1c.png)
+![Troubleshooting](screenshots/troubleshooting1d.png)
+![Troubleshooting](screenshots/troubleshooting1e.png)
 ![Troubleshooting](screenshots/troubleshooting2.png)
 ![Troubleshooting](screenshots/troubleshooting3.png)
 ![Troubleshooting](screenshots/troubleshooting4.png)
 ![Troubleshooting](screenshots/troubleshooting5.png)
 ![Troubleshooting](screenshots/troubleshooting6.png)
+![Troubleshooting](screenshots/troubleshooting7.png)
 
 ### 4. Issue Resolved (Working State)
 ![Resolved](screenshots/resolved1.png)
