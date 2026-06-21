@@ -20,8 +20,8 @@ This project demonstrates practical experience with Microsoft 365 user identity 
 - Accessed **Active Users** within Microsoft 365 Admin Center
 - Selected an existing user account
 - Opened **Manage Username and Email**
-- Modified the user’s username and email configuration
-- Validated updated user identity information in the Active Users directory
+- Modified the user’s email configuration
+- Validated updated user emmail information in the Active Users directory
 
 ---
 
