@@ -57,6 +57,9 @@ Blocking user sign-in is a critical administrative function used for access cont
 ![User Sign-In Access Restriction Administration Process](screenshots/9.png)
 ![User Sign-In Access Restriction Administration Process](screenshots/10.png)
 ![User Sign-In Access Restriction Administration Process](screenshots/11.png)
+
+### Client Side Validation
+
 ![User Sign-In Access Restriction Administration Process](screenshots/12.png)
 ![User Sign-In Access Restriction Administration Process](screenshots/13.png)
 ![User Sign-In Access Restriction Administration Process](screenshots/14.png)
