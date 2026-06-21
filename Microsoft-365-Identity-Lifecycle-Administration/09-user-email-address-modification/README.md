@@ -1,7 +1,7 @@
 # User Email Address Modification
 
 ## Overview
-Demonstrated hands-on experience modifying a user’s email address and username configuration through the Microsoft 365 Admin Center. This process involved accessing user identity settings, updating the primary username and email configuration, saving administrative changes, and validating the updated user identity within the Active Users directory.
+Demonstrated hands-on experience modifying a user’s email address configuration through the Microsoft 365 Admin Center. This process involved accessing user identity settings, updating the primary email configuration, saving administrative changes, and validating the updated user identity within the Active Users directory.
 
 This project demonstrates practical experience with Microsoft 365 user identity management, account modification, and administrative validation in a cloud-based administrative environment.
 
