@@ -44,7 +44,7 @@ Managing user profile information is a fundamental administrative function withi
 
 ## Screenshots
 
-## User Identity Modification Process
+### User Identity Modification Process
 
 ![User Profile Administration Process](screenshots/1.png)
 ![User Profile Administration Process](screenshots/2.png)
