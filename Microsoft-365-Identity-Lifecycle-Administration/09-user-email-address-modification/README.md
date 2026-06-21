@@ -36,7 +36,7 @@ This project demonstrates practical experience with Microsoft 365 user identity 
 ---
 
 ## Key Takeaways
-Managing user email addresses and usernames is a core function of identity administration. Accurate identity modifications support organizational standardization, account consistency, and proper user account lifecycle management across cloud environments.
+Managing users' email addresses is a core function of identity administration. Accurate identity modifications support organizational standardization, account consistency, and proper user account lifecycle management across cloud environments.
 
 ---
 
