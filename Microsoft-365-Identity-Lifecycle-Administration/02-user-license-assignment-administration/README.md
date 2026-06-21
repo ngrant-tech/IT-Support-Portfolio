@@ -36,7 +36,7 @@ This project demonstrates practical experience with Microsoft 365 user administr
 
 ---
 
-## Enterprise Relevance / Key Takeaways
+## Key Takeaways
 License assignment is a fundamental part of enterprise user provisioning and access management. Proper license administration ensures users receive the required subscriptions based on organizational needs while supporting operational consistency and access governance.
 
 ---
