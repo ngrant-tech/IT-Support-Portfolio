@@ -20,7 +20,6 @@ This project demonstrates practical experience with Microsoft 365 user access ma
 - Accessed **Active Users** within Microsoft 365 Admin Center
 - Selected an existing user account
 - Applied **Block Sign-In** restriction
-- Saved administrative changes
 - Tested user authentication to validate access restriction enforcement
 - Verified account lockout status through sign-in validation
 
