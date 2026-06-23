@@ -21,7 +21,6 @@ This project demonstrates practical experience with Microsoft 365 authentication
 - Selected an existing user account
 - Opened **User MFA Settings**
 - Required the user to provide authentication contact methods again
-- Saved administrative changes
 - Validated successful MFA reset through user authentication testing
 
 ---
