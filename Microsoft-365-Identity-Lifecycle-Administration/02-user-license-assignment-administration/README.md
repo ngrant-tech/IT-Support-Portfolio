@@ -1,4 +1,4 @@
-# Microsoft 365 User License Assignment Administration
+# User License Assignment Administration
 
 ## Overview
 Demonstrated hands-on experience assigning a **Microsoft 365 Business Standard** license to an active user account through the Microsoft 365 Admin Center. This process involved accessing user account licensing settings, applying an enterprise subscription license, and saving administrative changes to provision organizational access.
