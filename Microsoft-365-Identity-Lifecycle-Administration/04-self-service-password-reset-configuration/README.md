@@ -23,7 +23,6 @@ This project demonstrates practical experience with Microsoft 365 security admin
 - Opened **Self-Service Password Reset** settings
 - Accessed Microsoft Entra ID password reset properties through Azure Portal
 - Modified **Self-Service Password Reset Enabled** for all users
-- Saved administrative changes
 - Validated password reset functionality through end-user recovery testing
 
 ---
