@@ -22,7 +22,6 @@ This project demonstrates practical experience with Microsoft 365 user provision
 - Configured first name, last name, display name, and username
 - Created authentication credentials for the new user account
 - Assigned a **Microsoft 365 Business Standard** product license
-- Saved administrative changes
 - Validated successful account provisioning through authentication testing
 
 ---
