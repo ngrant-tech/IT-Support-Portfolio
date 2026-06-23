@@ -21,7 +21,6 @@ This project demonstrates practical experience with Microsoft 365 user administr
 - Selected an existing user account
 - Opened **Licenses and Apps**
 - Assigned a **Microsoft 365 Business Standard** license
-- Saved administrative changes
 
 ---
 
