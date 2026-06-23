@@ -21,7 +21,6 @@ This project demonstrates practical experience with Microsoft 365 email alias ma
 - Selected an existing user account
 - Opened **Manage Username and Email**
 - Created an additional email alias under the user account
-- Saved administrative changes
 - Validated alias functionality through email delivery testing
 
 ---
