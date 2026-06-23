@@ -21,7 +21,6 @@ This project demonstrates practical experience with Microsoft 365 user profile m
 - Selected an existing user account
 - Opened **Manage Contact Information**
 - Modified the user’s first name, last name, and display name
-- Saved administrative changes
 - Validated updated profile information in the Active Users directory
 
 ---
