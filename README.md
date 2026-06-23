@@ -1,8 +1,8 @@
-# IT-Support-Portfolio
+# IT Support Portfolio
 
-Enterprise-focused IT support and Active Directory lab portfolio demonstrating hands-on experience with Windows Server administration, domain infrastructure deployment, identity and access management (IAM), DNS troubleshooting, endpoint integration, and enterprise help desk operations.
+Enterprise-focused IT support, Active Directory, and Microsoft 365 administration portfolio demonstrating hands-on experience with Windows Server administration, domain infrastructure deployment, Microsoft 365 user lifecycle management, and enterprise help desk operations.
 
-Projects include Active Directory deployment, multi-layer domain join remediation, client-side troubleshooting, and server-side administrative support scenarios using Windows Server, Windows 11, Oracle VirtualBox, and Spiceworks.
+Projects include Active Directory deployment, multi-layer domain join remediation, Microsoft 365 identity lifecycle administration, client-side troubleshooting, and server-side administrative support scenarios using Windows Server, Windows 11, Microsoft 365 Admin Center, Oracle VirtualBox, Azure, and Spiceworks.
 
 ---
 
@@ -48,15 +48,26 @@ Identity & Access Management (IAM) • Active Directory Administration • RBAC 
 
 ---
 
+## Microsoft 365 Identity Lifecycle Administration
+Simulated enterprise-level Microsoft 365 identity lifecycle operations including user provisioning, license assignment, multi-factor authentication resets, self-service password reset configuration, credential recovery, account access restriction, deleted user restoration, identity modifications, email alias configuration, and user deprovisioning.
+
+**Key Skills:**  
+Microsoft 365 Administration • Microsoft Entra ID • Identity & Access Management (IAM) • User Provisioning • MFA Administration • Credential Recovery • Account Lifecycle Management • Exchange Online
+
+[View Project](./Microsoft-365-Identity-Lifecycle-Administration)
+
+---
+
 # Portfolio Highlights
 - Built and deployed a complete enterprise-style Active Directory environment
 - Performed multi-layer domain join troubleshooting across DNS, firewall, LDAP, and network infrastructure
+- Managed full Microsoft 365 user identity lifecycle administration from provisioning to deprovisioning
+- Configured and validated MFA resets and Self-Service Password Reset (SSPR) policies
+- Performed user credential recovery, account restoration, and access restriction workflows
+- Configured user identity modifications including usernames, email addresses, and aliases
 - Simulated real-world enterprise support tickets using Spiceworks
 - Implemented secure access control using security groups and least privilege principles
 - Diagnosed and remediated authentication, DNS, and permission-related failures
 - Documented troubleshooting workflows with detailed validation and resolution steps
 
 ---
-
-# Notes
-All projects and support scenarios were intentionally built and resolved within controlled virtual lab environments to simulate real-world enterprise IT operations and troubleshooting workflows.
