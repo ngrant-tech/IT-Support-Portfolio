@@ -43,7 +43,7 @@ Email alias administration is an important function in enterprise identity and c
 
 ## Screenshots
 
-## Email Alias Configuration Process
+### Email Alias Configuration Process
 
 ![Email Alias Administration Process](screenshots/1.png)
 ![Email Alias Administration Process](screenshots/2.png)
