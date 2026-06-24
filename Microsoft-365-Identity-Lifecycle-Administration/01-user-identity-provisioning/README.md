@@ -46,7 +46,6 @@ User provisioning is a core administrative function in identity management. Prop
 
 ### User Identity Provisioning Process
 
-![User Provisioning Administration Process](screenshots/1.png)
 ![User Provisioning Administration Process](screenshots/2.png)
 ![User Provisioning Administration Process](screenshots/3.png)
 ![User Provisioning Administration Process](screenshots/4.png)
